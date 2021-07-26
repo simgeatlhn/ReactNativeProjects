@@ -3,7 +3,7 @@
 //IMPORTANT !!!
 // You can search for steak, fast food, etc. in the search section. Thus, restaurants are listed for you.
 
-Api:https://www.yelp.com/developers/documentation/v3
+Api:https://www.yelp.com/developers/documentation/v3 for food-app
 
 //FOOD-APP
 //BLOG-APP

@@ -1,4 +1,8 @@
 # ReactNativeProjects
+
+//IMPORTANT !!!
+// You can search for steak, fast food, etc. in the search section. Thus, restaurants are listed for you.
+
 Api:https://www.yelp.com/developers/documentation/v3
 
 ![food app 1](https://user-images.githubusercontent.com/73952475/126206570-881016aa-7c59-4792-bff6-9d99ac6ff8c8.jpg)

@@ -1,4 +1,7 @@
+//IMPORTANT !!!
+// You can search for steak, fast food, etc. in the search section. Thus, restaurants are listed for you.
 
+Api:https://www.yelp.com/developers/documentation/v3 for food-app
 
 ![food app 1](https://user-images.githubusercontent.com/73952475/126206570-881016aa-7c59-4792-bff6-9d99ac6ff8c8.jpg)
 ![food app 2](https://user-images.githubusercontent.com/73952475/126206572-93bf21d9-2a34-4751-b077-b29cd87849c2.jpg)
